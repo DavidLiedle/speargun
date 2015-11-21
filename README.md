@@ -1,5 +1,5 @@
 # SpearGun
-An API client for working with DigitalOcean in Dart
+An API client for working with DigitalOcean in Dart on the CLI.
 
 ## Development Status: 1% (Research)
 I'm using this project as a fun research combo-exercise both to become familiar with DigitalOcean's API and to try building a finished CLI App in Dart. For now, trust this code as you would a toddler with a spear gun. (Don't).
@@ -10,7 +10,7 @@ Create a file called `DigitalOceanAPI.key` in the same directory as the `speargu
 Make sure you've got the DartVM installed on your system! I'm working with 1.13.0 as I write this on a MacBook Air with El Capitan 10.11.1 and Homebrew's Dart installed.
 
 ## Usage
-You can use `dart speargun.dart` to run with Dart, or just run `speargun`, a BASH shell script to run it as a single command.
+You can use `dart speargun.dart` to run with Dart, or just run `./speargun`, a BASH shell script to run it as a single command.
 
 ## Future Plans
 *Insert delusions of grandeur here*
