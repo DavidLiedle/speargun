@@ -18,6 +18,7 @@ var NEWLINE = '\n';
 //ArgResults argResults;
 
 void main(List<String> arguments){
+
 	print('speargun initializing...');
 
   // Check for the API key file: https://api.dartlang.org/134830/dart-io/File-class.html
