@@ -12,3 +12,6 @@ packages
 
 # Include when developing application packages.
 pubspec.lock
+
+# Specific API Key file for this instance:
+DigitalOceanAPI.key
