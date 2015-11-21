@@ -2,7 +2,7 @@
 An API client for working with DigitalOcean in Dart
 
 ## Development Status: 1% (Research)
-I'm using this project as a fun research combo-exercise both to become familiar with DigitalOcean's API and to try building a finished CLI App in Dart. For now, trust this code as you would a toddler with a nail gun. (Don't).
+I'm using this project as a fun research combo-exercise both to become familiar with DigitalOcean's API and to try building a finished CLI App in Dart. For now, trust this code as you would a toddler with a spear gun. (Don't).
 
 ## Installation
 Create a file called `DigitalOceanAPI.key` in the same directory as the `speargun.dart` script. Paste your API key in as plain text on line one, save, and reward yourself with yet another cup of coffee for the day.
